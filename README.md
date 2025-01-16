@@ -73,5 +73,9 @@ The management team needs a way to track KPIs(sales,revenue,profit,returns), com
 - Power BI Services: Deployed reports online, and shared insights with stakeholders.
 - KPI Implementation: Applied conditional formatting and KPI indicators for quick insights.
 
+## Live Power BI Dashboard
 
+You can view the live Power BI dashboard for the Adventure Works project by clicking the link below:
+
+https://app.powerbi.com/reportEmbed?reportId=47b7aa8b-f86d-4e61-9eb4-f54e04a6d2ae&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
 
